@@ -1,0 +1,33 @@
+﻿Build started 20.02.2015 12:05:38.
+     1>Project "I:\SAE\0914\projects\PixelFighters\PixelFighters\PixelFighters\PixelFighters.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Programme\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>i:\sae\0914\projects\pixelfighters\pixelfighters\pixelfighters\mob.h(71): warning C4520: 'Mob' : multiple default constructors specified
+       Link:
+         D:\Programme\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"I:\SAE\0914\projects\PixelFighters\PixelFighters\Debug\PixelFighters.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Visual Leak Detector\lib\Win32" SDL2_mixer.lib SDL2.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"I:\SAE\0914\projects\PixelFighters\PixelFighters\Debug\PixelFighters.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"I:\SAE\0914\projects\PixelFighters\PixelFighters\Debug\PixelFighters.lib" /MACHINE:X86 Debug\AudioClip.obj
+         Debug\AudioSource.obj
+         Debug\Character.obj
+         Debug\CharacterSelection.obj
+         Debug\Controller.obj
+         Debug\CreditsScene.obj
+         Debug\FightScene.obj
+         Debug\HUD.obj
+         Debug\ImageControl.obj
+         Debug\main.obj
+         Debug\MainMenu.obj
+         Debug\MenuScene.obj
+         Debug\Mob.obj
+         Debug\Scene.obj
+         Debug\SpAttackLine.obj
+         Debug\SpAttackUltimate.obj
+         Debug\SpecialAttack.obj
+         Debug\SpFollow.obj
+         Debug\SpRound.obj
+         Debug\stdafx.obj
+         PixelFighters.vcxproj -> I:\SAE\0914\projects\PixelFighters\PixelFighters\Debug\PixelFighters.exe
+     1>Done Building Project "I:\SAE\0914\projects\PixelFighters\PixelFighters\PixelFighters\PixelFighters.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.79

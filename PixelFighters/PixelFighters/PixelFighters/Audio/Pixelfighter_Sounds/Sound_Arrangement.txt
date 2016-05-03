@@ -1,0 +1,28 @@
+﻿Music:
+
+	Menü:			Prelude and Action.mp3
+
+	In-Game:		Future Gladiator.mp3
+
+	Winscreen:		Jaunty Gumption.mp3				
+
+
+
+Sounds:
+
+
+Menü zwischen Items hin und her wechseln: 	Woosh-Mark_DiAngelo-4778593.mp3
+
+Menü Auswahl bestätigen: 			Tick-DeepFrozenApps-397275646.mp3
+
+Springen:					Mario_Jumping-Mike_Koenig-989896458.mp3
+
+Mobs zerschlagen:				Spit_Splat-Mike_Koenig-1170500447.mp3
+
+Schläge:					Jab-SoundBible.com-1806727891.mp3
+						Realistic_Punch-Mark_DiAngelo-1609462330.mp3
+						Right Cross-SoundBible.com-1721311663.mp3
+						Upper Cut-SoundBible.com-1272257235.mp3
+Noch ohne Zweck aber vielleicht nützlich:	Blop-Mark_DiAngelo-79054334.mp3
+
+Schlagsounds evtl. random auswählen lassen?
